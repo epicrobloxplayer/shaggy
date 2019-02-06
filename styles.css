@@ -1,0 +1,15 @@
+.donatesection {
+    background: grey;
+    padding: 50px;
+    color: black; 
+    text-align: center;
+    border: 30px solid black;
+    border-radius: 50px;
+    
+}
+.power {
+display: flex;
+justify-content: space-around;
+}
+img {width: 250px;
+}
